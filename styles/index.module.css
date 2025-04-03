@@ -6,14 +6,6 @@
   padding: 0 1rem;
 }
 
-/* TODO: figure out how to send this text to the hero component with out it looking bad  */
-
-/* @media screen and (--mobile-viewport) {
-  .Home .heroText {
-    padding: 1rem;
-  }
-} */
-
 .Home .ctaContainer {
   display: flex;
   width: 100%;
